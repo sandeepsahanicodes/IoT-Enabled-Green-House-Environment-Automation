@@ -51,8 +51,11 @@ parameters
 ## Remote Monitoring Dashboard
 <img src="https://github.com/sandeepsahanicodes/IoT-Enabled-Green-House-Environment-Automation/assets/82876741/3be3957a-ac22-4b84-b5b9-59886457f78c" alt="dashboard" width="600">
 
+## Project In Action
+[Watch the project on YouTube](https://youtu.be/uN2EiPx5QiI)
+
 ## Authors
-- Subham Barik
-- Sandeep Sahani
-- Satyabrat Sahoo
-- Manas Ranjan Kabat
+- [Subham Barik](https://www.linkedin.com/in/subham-b-a8b09027b/)
+- [Sandeep Sahani](https://www.linkedin.com/in/sandeep-sahani-883398220/)
+- [Satyabrat Sahoo](https://www.linkedin.com/in/satyabrat-sahoo-385aa6157/)
+- [Manas Ranjan Kabat](https://www.linkedin.com/in/manas-ranjan-kabat-4b88933a/)
