@@ -1,5 +1,5 @@
 # IoT Enabled Green House Environment Automation
-
+- This is the research project for the partial fulfillment for the award of the degree of Bachelor of Technology in Computer Science and Engineering.
 - Our system employs a network of sensors to gather data on essential greenhouse variables,
 including temperature, humidity, soil moisture, and light intensity. We utilize the
 ESP32 Wroom 32U microcontroller to transmit and visualize real-time data on the Arduino
