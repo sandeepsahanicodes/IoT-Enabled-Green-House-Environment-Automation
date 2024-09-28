@@ -52,7 +52,7 @@ parameters
 <img src="https://github.com/sandeepsahanicodes/IoT-Enabled-Green-House-Environment-Automation/assets/82876741/3be3957a-ac22-4b84-b5b9-59886457f78c" alt="dashboard" width="600">
 
 ## Project In Action
-[Watch the project on YouTube](https://youtu.be/uN2EiPx5QiI)
+[Watch the full project explanation on YouTube](https://youtu.be/uN2EiPx5QiI)
 
 ## Authors
 - [Subham Barik](https://www.linkedin.com/in/subham-b-a8b09027b/)
