@@ -40,19 +40,19 @@ parameters
 - Arduino Cloud
   
 ## Block Diagram
-<img src="https://github.com/sandeepsahanicodes/IoT-Enabled-Green-House-Environment-Automation/assets/82876741/de7e0944-b878-4143-a9c6-003fc3e4dfb9" alt="block diagram" width="600">
+<img src="https://github.com/sandeepsahanicodes/IoT-Enabled-Green-House-Environment-Automation/assets/82876741/de7e0944-b878-4143-a9c6-003fc3e4dfb9" alt="block diagram image" width="600">
 
 ## Schematic Diagram
-<img src="https://github.com/user-attachments/assets/3d86c021-3771-42ed-9b0f-99e20b7ee1bf" alt="Schematic diagram" width="600">
+<img src="https://github.com/user-attachments/assets/3d86c021-3771-42ed-9b0f-99e20b7ee1bf" alt="Schematic diagram image" width="600">
 
 ## Flow Chart
-<img src="https://github.com/sandeepsahanicodes/IoT-Enabled-Green-House-Environment-Automation/assets/82876741/98dab80f-c2c6-4a19-9398-8990e9d29d74" alt="flow" width="600">
+<img src="https://github.com/sandeepsahanicodes/IoT-Enabled-Green-House-Environment-Automation/assets/82876741/98dab80f-c2c6-4a19-9398-8990e9d29d74" alt="flowchart image" width="600">
 
 ## Hardware Model
-<img src="https://github.com/sandeepsahanicodes/IoT-Enabled-Green-House-Environment-Automation/assets/82876741/e069f903-932b-4cf8-8420-87cab5740ba5" alt="hardware" width="600">
+<img src="https://github.com/sandeepsahanicodes/IoT-Enabled-Green-House-Environment-Automation/assets/82876741/e069f903-932b-4cf8-8420-87cab5740ba5" alt="hardware model image" width="600">
 
 ## Remote Monitoring Dashboard
-<img src="https://github.com/sandeepsahanicodes/IoT-Enabled-Green-House-Environment-Automation/assets/82876741/3be3957a-ac22-4b84-b5b9-59886457f78c" alt="dashboard" width="600">
+<img src="https://github.com/sandeepsahanicodes/IoT-Enabled-Green-House-Environment-Automation/assets/82876741/3be3957a-ac22-4b84-b5b9-59886457f78c" alt="dashboard image" width="600">
 
 ## Project In Action
 [Watch the full project explanation on YouTube](https://youtu.be/uN2EiPx5QiI)
