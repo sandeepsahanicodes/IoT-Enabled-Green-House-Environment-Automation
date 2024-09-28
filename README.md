@@ -42,6 +42,9 @@ parameters
 ## Block Diagram
 <img src="https://github.com/sandeepsahanicodes/IoT-Enabled-Green-House-Environment-Automation/assets/82876741/de7e0944-b878-4143-a9c6-003fc3e4dfb9" alt="block diagram" width="600">
 
+## Schematic Diagram
+<img src="https://github.com/user-attachments/assets/3d86c021-3771-42ed-9b0f-99e20b7ee1bf" alt="Schematic diagram" width="600">
+
 ## Flow Chart
 <img src="https://github.com/sandeepsahanicodes/IoT-Enabled-Green-House-Environment-Automation/assets/82876741/98dab80f-c2c6-4a19-9398-8990e9d29d74" alt="flow" width="600">
 
