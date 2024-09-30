@@ -16,7 +16,7 @@ sensor data, and the Arduino Cloud is utilized for storing the collected data. T
 sensor is utilized for measuring humidity and temperature. For assessing soil water content,
 a soil moisture sensor is utilized. An LDR module is employed for measuring light
 intensity. Additionally, an LCD display is utilized for on-site monitoring of environmental
-parameters
+parameters.
 
 ## Our Contribution
 - Automated Environment Control
